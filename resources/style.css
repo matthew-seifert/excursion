@@ -20,6 +20,10 @@ a {
     text-decoration: underline;
 }
 
+#travel {
+    margin: 2rem;
+}
+
 #travel p {
     font-size: 21px;
     color: gray;
@@ -29,4 +33,11 @@ a {
     font-weight: 300;
     font-size: 42px;
     color: white;
+}
+
+footer {
+    color: gray;
+    text-align: right;
+    font-size: 1.25rem;
+    margin: 1rem;
 }
